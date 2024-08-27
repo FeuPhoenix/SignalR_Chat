@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SignalRChat1/1.0.0": {
+        "runtime": {
+          "SignalRChat1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SignalRChat1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
